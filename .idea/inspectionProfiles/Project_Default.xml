@@ -1,0 +1,36 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="JavaDoc" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="TOP_LEVEL_CLASS_OPTIONS">
+        <value>
+          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+          <option name="REQUIRED_TAGS" value="" />
+        </value>
+      </option>
+      <option name="INNER_CLASS_OPTIONS">
+        <value>
+          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+          <option name="REQUIRED_TAGS" value="" />
+        </value>
+      </option>
+      <option name="METHOD_OPTIONS">
+        <value>
+          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+          <option name="REQUIRED_TAGS" value="@return@param@throws or @exception" />
+        </value>
+      </option>
+      <option name="FIELD_OPTIONS">
+        <value>
+          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+          <option name="REQUIRED_TAGS" value="" />
+        </value>
+      </option>
+      <option name="IGNORE_DEPRECATED" value="false" />
+      <option name="IGNORE_JAVADOC_PERIOD" value="true" />
+      <option name="IGNORE_DUPLICATED_THROWS" value="false" />
+      <option name="IGNORE_POINT_TO_ITSELF" value="false" />
+      <option name="myAdditionalJavadocTags" value="Description:获得屏幕高度,Author:YZM,Description:计算适合的图片尺寸,Description:保存图片的方法,Description:自定义一个surfaceView继承surfaceView,Description:请求权限回调,Description:加载布局，初始化组件,Description:设置不同按钮的点击事件,Description:停止录制,Description:创建Session的状态回调,Description:开启预览的方法,Description:拍照方法,Description:拍照请求的回调，返回拍照的结果消息,Description:设置缩放的方法,Description:初始化MediaRecorder，接受Camera有关参数,Description:开始录制,Description:初始化MediaRecorder，接収Camera有关参数,Description:关闭相机,Description:切换前后摄像头的方法,Description:打开相机后的状态回调，获取CameraDevice对象,Description:初始化相机" />
+    </inspection_tool>
+  </profile>
+</component>
